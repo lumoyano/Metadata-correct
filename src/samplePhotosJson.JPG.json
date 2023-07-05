@@ -1,0 +1,40 @@
+{
+  "title": "IMG_7123.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1428282329",
+    "formatted": "Apr 6, 2015, 1:05:29 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1594552329",
+    "formatted": "Jul 12, 2020, 11:12:09 AM UTC"
+  },
+  "geoData": {
+    "latitude": -28.35901388888889,
+    "longitude": -46.28985555555556,
+    "altitude": 13.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -28.35901388888889,
+    "longitude": -46.28985555555556,
+    "altitude": 13.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Fred"
+  }, {
+    "name": "Bob"
+  }],
+  "photoTakenTime": {
+    "timestamp": "1398778141",
+    "formatted": "Apr 29, 2014, 1:29:01 PM UTC"
+  },
+  "googlePhotosOrigin": {
+    "photosDesktopUploader": {
+    }
+  }
+}
